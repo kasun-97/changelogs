@@ -1,0 +1,30 @@
+=======================
+     22-10-2023
+=======================
+* Initial build
+
+=======================
+     29-10-2023
+=======================
+* Add MIUI camera
+* Add Dolby Atmos
+* Add DataSwitchTile
+* Add delete action to screen recorder notification
+* Add deep sleep info to uptime preference
+* Add hotspot toggle in QS internet dialog
+
+=======================
+     26-11-2023
+=======================
+* Switch to mtkpower
+* November security patch
+* Play integrity fixed
+* Add min/peak refresh rate in display settings
+* Fix bootanimation lag 
+
+=======================
+     03-12-2023
+=======================
+* Fix NFC (Switch to prebuilt NFC stack)
+* Update all blobs from MIUI V14.0.5.0.TMOMIXM
+* Update all connectivity firmware from A346BXXU4AWG7
