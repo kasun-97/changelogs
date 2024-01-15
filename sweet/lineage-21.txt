@@ -9,3 +9,8 @@
 * Add stock MIUI camera
 * Add Dolby Atmos (XiaomiParts implementation)
 * Enable signature spoofing support
+
+=======================
+     15-01-2024
+=======================
+* Merge January 2024 security patch
